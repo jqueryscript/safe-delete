@@ -2,8 +2,8 @@
 Bootstrap plugin for safe deletion with confirm prompt
 
 # Dependencies
-Bootstrap 3.3.6
-jQuery 1.9.1
+Bootstrap 4+
+jQuery 1.9+
 
 # How to use
 After integrating the script in your page, you can call the plugin from any element like this
